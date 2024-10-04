@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1>aca probando el cistema</h1>
+    <h2>probando de vuelta</h2>
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
